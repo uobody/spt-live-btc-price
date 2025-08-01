@@ -1,14 +1,11 @@
 {
     "updateInterval": 2700,
     "enableLogging": true,
-    "enableStartupUpdate": true,
     "enablePeriodicUpdates": true,
-    "forceStartupUpdate": true,
     "advanced": {
         "enablePriceCaching": true,
-        "enableDetailedLogging": false,
         "apiTimeout": 15000,
         "userAgent": "SPT-LiveBTC-PVE"
     },
-    "nextUpdate": 1754010028
+    "nextUpdate": 1754014093
 }
