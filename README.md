@@ -1,4 +1,4 @@
-# spt-live-btc-price
+# SPT Live BTC PVE Price
 This mod dynamically updates the in-game price of Bitcoin in SPT to match its current value in live Tarkov for the PVE gamemode.
 
 This mod is just an additional update to the first mod from Shardbyte and Amightytank's update to that mod.
